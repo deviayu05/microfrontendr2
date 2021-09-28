@@ -1,0 +1,72 @@
+[
+	{
+		"judul":"Operating Systems: Three Easy Pleces",
+		"img":"https://m.media-amazon.com/images/I/51rSSmdEUlL.jpg",
+		"harga":250000,
+		"rate":4.5,
+		"ratecount":274,
+		"deskripsi":" ISBN-13: 978-1985086593, ISBN-10: 198508659X",
+		"kategori":"komputer"
+	},
+	{
+		"judul":"Electric Circuits",
+		"img":"https://images-na.ssl-images-amazon.com/images/I/5157po+hW+L._AC_UL160_SR160,160_.jpg",
+		"harga":180000,
+		"deskripsi":"Challenge students to develop the insights of a practicing engineer",
+		"rate":4.0,
+		"ratecount":94,
+		"kategori":"komputer"
+	},
+	{
+		"judul":"Modern Computer Architecture and Organization",
+		"harga":330000,
+		"rate":5,
+		"ratecount":69,
+		"deskripsi":"Understand digital circuitry with the help of transistors, logic gates, and sequential logic",
+		"img":"https://images-na.ssl-images-amazon.com/images/I/61Uijp7FHwL._AC_UL160_SR160,160_.jpg",
+		"kategori":"komputer"
+	},
+	{
+		"judul":"Dad And Me Setting Farts Free",
+		"kategori":"anak-anak",
+		"harga":30000,
+		"rate":5,
+		"ratecount":474,
+		"deskripsi":"Dad And Me Setting Farts Free: A Funny Read Aloud Picture Book For Fathers And Their Kids, A Rhyming Story For Families (Fart Dictionaries and Toot Along Stories)",
+		"img":"https://m.media-amazon.com/images/I/61XU7EJdi9S._AC_UY218_.jpg",
+		"flag":"topnew",
+		"penulis":"Jane Bexley",
+		"tahun": 2021,
+		"promo_title":"New Father's Day Gift For 2021!",
+		"promo_text":"Does your dad fart? Of course he does! This silly rhyming story will have you bursting with laughter as the little bear tries to be just like his dad in every way, including his amazing toot power. This book is appropriate for ALL AGES who don't mind silly toot humor (that is not overly gross). Words used include: toot, fart, gas, rump, booty and bum. ",
+		"reviews":[
+			{"user":"Brenda","review":"Bought this for my husband for his first Father’s Day. It’s a cute and funny little story. Haven’t read it to our son yet since he’s only a few months old but I hope he’ll like it when he’s older."},
+			{"user":"NeeNuu","review":"It’s a cute book. No idea if they’re all like this or if it’s just the copy I received, but the illustrated pages look like their printer was running out of ink. There are fade lines every couple of inches from top to bottom of each page, so the illustrations don’t look entirely opaque and full of color as they should. Because of this, it looks more like a book you’d find at the dollar store. "}
+		]
+	},
+	{
+		"judul":"Kindness Makes Me Stronger",
+		"kategori":"anak-anak",
+		"harga":100000,
+		"rate":4,
+		"ratecount":93,
+		"img":"https://m.media-amazon.com/images/I/61BLjgHKwKS._AC_UY218_.jpg",
+		"deskripsi":"Children’s Book about Magic of Kindness, Empathy and Respect (World of Kids Emotions)"
+	},
+	{
+		"judul":"Things To Do",
+		"kategori":"anak-anak",
+		"rate":5,
+		"ratecount":1039,
+		"harga":120000,
+		"img":"https://m.media-amazon.com/images/I/81FsLe+pQxL._AC_UL640_QL65_.jpg",
+		"deskripsi":"The Highlights Book of Things to Do: Discover, Explore, Create, and Do Great Things",
+		"flag":"toprate",
+		"penulis":"Highlights",
+		"tahun":2020,
+		"reviews":[
+			{"user":"Booklist","review":"Hearkening back to the magazine’s origins, the editors of Highlights have assembled an activity book with a focus on doing. . . the book offers hundreds of ideas to try inside and outside the home. (I)n Highlights’ dedication to social and emotional learning, the “Do Great Things” chapter gives tips on dealing with angry feelings, being a good listener, and other topics of well-being. Boredom busters with a purpose"},
+			{"user":"The National Parenting Center Seal of Approval","review":"We’re going to warn you in advance; your child will not put this book down. Even better, it keeps children voluntarily off the screens and creating or exploring all the wonderful things the book has to offer…This book will grow with your children and will probably be something that you will want to pass on to future generations."}
+		]
+	}
+]

@@ -8,6 +8,10 @@
 * Farhan Renaldi Nouval (18/430261/PA/18774)
 * Devi Ayu Rachmawati (21/488637/NPA/19753)
 
+## Pembagian Tim
+* Tim 1 : Dhany, Farhan, Devi
+* Tim 2 : Dwi Rangga, Elsa, Faris
+
 ## Tech
 * Html
 * Css - [Tailwind Css](https://tailwindcss.com/)
